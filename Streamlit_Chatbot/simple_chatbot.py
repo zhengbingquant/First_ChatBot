@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # Configure the API
-GOOGLE_API_KEY = "AIzaSyCoIwS6-v1DE6YNnRr2sZVaMdvqd0gU7Q8"
+GOOGLE_API_KEY = "your_google_API_key"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # System prompt defining the persona
