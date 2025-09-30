@@ -337,11 +337,6 @@ def main():
         
         st.markdown("---")
         
-        st.markdown("### 📚 Persona")
-        st.info("**Expert Physics & Maths Tutor**\n\nI'm here to help you understand and solve physics and mathematics problems with clear, step-by-step explanations!")
-        
-        st.markdown("---")
-        
         # Collapsible Settings Section
         with st.expander("⚙️ Settings", expanded=False):
             st.markdown("### 🎯 Problem Settings")
