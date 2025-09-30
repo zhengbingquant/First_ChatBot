@@ -1,2 +1,8 @@
-google.generativeai
-pandas
+streamlit
+google-generativeai
+pyttsx3
+Pillow
+matplotlib
+numpy
+requests
+gTTS
