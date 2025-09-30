@@ -472,7 +472,7 @@ def main():
     # ---- Control icons in fixed position above the chat input ----
     icon_container = st.container()
     with icon_container:
-        col1, col2, col3 = st.columns([0.06, 0.06, 0.88])
+        col1, col2, col3 = st.columns([0.07, 0.07, 0.86])
         
         with col1:
             if st.button("📎", help="Upload image", key="upload_trigger", use_container_width=True):
