@@ -42,7 +42,7 @@ For more examples, see [Chatbot_Example_Questions.txt](Chatbot_Example_Questions
 
 ## 📋 Prerequisites
 
-- Python **3.12.1** or higher  
+- Python **3.8** or higher  
 - Google AI API Key (from [Google AI Studio](https://makersuite.google.com/app/apikey))  
 
 ---
@@ -173,4 +173,5 @@ Project Link: [https://github.com/zhengbingquant/Physics-Maths-Solver-ChatBot](h
 ⭐ If you find this project helpful, please give it a star on GitHub!  
 
 ---
+
 
