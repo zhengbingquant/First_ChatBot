@@ -29,6 +29,15 @@ Try asking questions like:
 
 For more examples, see [Chatbot_Example_Questions.txt](Chatbot_Example_Questions.txt).
 
+**1. Home Page – Features Overview**  
+![Home](images/home.png)
+
+**2. Example Question – Input Prompt**  
+![Example Question](images/example_question.png)
+
+**3. AI Answer – Step-by-Step Solution**  
+![Answer](images/answer.png)
+
 ---
 
 ## 📋 Prerequisites
@@ -164,3 +173,4 @@ Project Link: [https://github.com/zhengbingquant/Physics-Maths-Solver-ChatBot](h
 ⭐ If you find this project helpful, please give it a star on GitHub!  
 
 ---
+
