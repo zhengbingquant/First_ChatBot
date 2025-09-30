@@ -28,7 +28,7 @@ import os
 import requests
 
 # Configure the API
-GOOGLE_API_KEY = "AIzaSyB6EnVxS5xiXGH30YZpI2RnN2X-BI7IZk0"
+GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # System prompt defining the persona
